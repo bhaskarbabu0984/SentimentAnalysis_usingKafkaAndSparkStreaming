@@ -1,0 +1,6 @@
+rootProject.name = 'lolSentimentAnalysis'
+
+include 'twitter-kafka'
+
+include 'kafka-spark'
+
